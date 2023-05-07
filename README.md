@@ -7,3 +7,4 @@ Kod strony internetowej jest open source, zapraszamy do pomocy w optymalizacji t
 * [kod frontendowy](https://github.com/xxai-art/web)
 * [Pakiety językowe dla całej witryny](https://github.com/xxai-art/web/tree/main/i18n)
 * [Pakiety językowe dla modułów logowania](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Wielojęzyczna dokumentacja witryny](https://github.com/xxai-doc)
